@@ -14,7 +14,7 @@ But there is not some limit to customize the chromium as you want.
 
 For the android platform, I have converted the chromium ninja project into android gradle project.
 
-So it is easy customize the chromium for the native android developers.
+So it is easy to customize the chromium for the native android developers who is experienced with java.
 
 ### Features.
 
